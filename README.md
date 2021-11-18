@@ -2,9 +2,15 @@
 
 #### Available Language
 
+<div>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+</div>
 
-"https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"
-"https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"
+<br>
+
+![Top-Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=goodsvpg&layout=compact)
 
 <!--
 **goodsvpg/goodsvpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
