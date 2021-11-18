@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### Available Language
+
+
+"https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"
+"https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"
+
 <!--
 **goodsvpg/goodsvpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
