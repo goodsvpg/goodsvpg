@@ -1,11 +1,14 @@
-### Hi there 👋
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hello%20World&height=150&fontSize=60&desc=I'll%20try%20my%20best%20to%20grow%20together&descAlignY=75&descAlign=60)
 
-#### Available Language
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
+
+#### 🤓 Available Language
 
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
 </div>
 
 <br>
